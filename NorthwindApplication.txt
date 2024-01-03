@@ -3,3 +3,5 @@ This will be the configurations and the start of the program.
 Here we can initialize the objects by using Service's with Dependency Injection.
 
 After everything is set, and no errors to be found while compiling this.. Then the program will start.
+
+Disini di tambahin Service untuk Category
