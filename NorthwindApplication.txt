@@ -6,3 +6,5 @@ After everything is set, and no errors to be found while compiling this.. Then t
 
 Disini di tambahkan service untuk Product
 Disini di tambahin Service untuk Category
+Disini di tambahkan Service untuk Order.
+Disini di tambahkan Service untuk Order Details.
